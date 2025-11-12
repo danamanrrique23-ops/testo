@@ -9,5 +9,8 @@ width: 100%;
     display: grid;
     grid-column: 2;
     grid-row: 2;
-    
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
 }
